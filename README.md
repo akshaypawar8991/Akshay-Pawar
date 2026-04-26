@@ -18,7 +18,7 @@
 ## 🛠️ I code with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mssql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github" />
 </p>
 
 ---
